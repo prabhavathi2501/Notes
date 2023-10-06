@@ -5,8 +5,9 @@ function App() {
  
   return <>
      <div className='wapper'>
+      <div className="container-fliud">
     <Sidebar/>
-  
+  </div>
     </div>
    
     </>
